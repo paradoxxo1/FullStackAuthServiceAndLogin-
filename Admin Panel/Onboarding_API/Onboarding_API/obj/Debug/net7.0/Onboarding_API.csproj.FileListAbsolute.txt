@@ -1,0 +1,170 @@
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\appsettings.Development.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\appsettings.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.exe
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.deps.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.runtimeconfig.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.pdb
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Azure.Core.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Azure.Identity.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Humanizer.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.CodeDom.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.csproj.AssemblyReference.cache
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.AssemblyInfoInputs.cache
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.AssemblyInfo.cs
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.csproj.CoreCompileInputs.cache
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.MvcApplicationPartsAssemblyInfo.cs
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.MvcApplicationPartsAssemblyInfo.cache
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.Onboarding_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Onboarding_API.props
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Onboarding_API.props
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Onboarding_API.props
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\scopedcss\bundle\Onboarding_API.styles.css
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboardi.AEFCEC31.Up2Date
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\refint\Onboarding_API.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.pdb
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.genruntimeconfig.cache
+C:\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\ref\Onboarding_API.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\AutoMapper.dll
+C:\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\appsettings.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.exe
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.deps.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.runtimeconfig.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Onboarding_API.pdb
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\AutoMapper.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Azure.Core.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Humanizer.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.csproj.AssemblyReference.cache
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.AssemblyInfoInputs.cache
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.AssemblyInfo.cs
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.csproj.CoreCompileInputs.cache
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.Onboarding_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Onboarding_API.props
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Onboarding_API.props
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Onboarding_API.props
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\scopedcss\bundle\Onboarding_API.styles.css
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboardi.AEFCEC31.Up2Date
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\refint\Onboarding_API.dll
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.pdb
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\Onboarding_API.genruntimeconfig.cache
+D:\Hazıır Projeler\AdminPanel\Onboarding_API\Onboarding_API\obj\Debug\net7.0\ref\Onboarding_API.dll
